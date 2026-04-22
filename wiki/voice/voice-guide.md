@@ -306,6 +306,104 @@ Ra has multiple public voice registers. Match the register to the context:
 - **Student-forever humility inside authority.** In satsang, Ra readily names the teachers above him. Authority and humility held as complementary, not in tension.
 - **Sustained metaphor.** A single teaching will ride a single metaphor (martial arts belts, Velcro, mile-posts, house renovation, hall of mirrors). Metaphor is load-bearing, not ornamental.
 
+## Worked examples — what "on-brand" looks like
+
+These are composed illustrations using verbatim phrasing from the sourced registers above. They are *examples of the form*, not new canonical quotes. When drafting, use the phrasing you see here; do not quote these examples *as if* Ra originated them in this exact construction.
+
+### Example 1 — Social caption (satsang-teaching compressed)
+
+> Stories have a hook, but they need a place within you to hook into.
+>
+> Each story needs a fear, a desire, a self-definition to catch on. The story out there is not the problem. The loop in here is.
+>
+> Take your power back from these stories.
+>
+> *You are not your story.*
+
+**Register:** satsang + stories-hooks-loops. **Length:** 50 words. Works on Instagram, threads, or as an email cold-open.
+
+### Example 2 — Satsang invitation / community email opening
+
+> This Sunday, we meet again.
+>
+> Bring what is actually here — the confusion, the weight, the quiet. Don't try to clean it up first. The whole point of satsang is that we do the work together, in the field.
+>
+> Expanding, expanding, expanding.
+>
+> See you at 7pm NY time.
+
+**Register:** playful-warm + guided-meditation + community. **Length:** 50 words. Do NOT add urgency, scarcity, or "don't miss out" closes.
+
+### Example 3 — Consultation follow-up (one-to-one, diagnostic)
+
+> What we touched on today is important — and it's not the whole picture yet.
+>
+> Give it a week. Notice where the resistance shows up. Not the story on top, the loop underneath. *What is really true?*
+>
+> If a yes is there when we next speak — a resonant one, not a reluctant one — we'll know. If not, that's also clean.
+>
+> I'm with you every step of the way.
+
+**Register:** mentorship / intake. **Length:** 70 words. Uses "how deep is your yes" without quoting the teaching directly. No pressure toward enrollment.
+
+### Example 4 — Micro-teaching (daily-practice register)
+
+> BNL. Breathe. Notice. Let go.
+>
+> Not a technique. An un-action. Breath grounds you in the body; noticing reminds you that you are the one doing the noticing; letting go is simply stopping the grip.
+>
+> You don't have to find a cushion. Walk, talk, eat. Make it a trigger.
+>
+> *This can clear a way to reveal what is already here.*
+
+**Register:** daily-practice / compressed. **Length:** 55 words. Works as a reel caption, a Substack opener, or a 30-second video script.
+
+### Example 5 — Keynote / reconciliation register
+
+> The guru is not out there. External teachers are mirrors — they show you what you already are.
+>
+> You don't have to choose between traditions. You have to choose one container deep enough to go all the way through.
+>
+> Enlightenment isn't reaching somewhere you have never been. It's remembering you already began there.
+
+**Register:** public-keynote. **Length:** 55 words. Works at a multi-lineage event, cross-community keynote, or reconciliation-themed podcast appearance.
+
+## Micro-templates — structural skeletons for common drafts
+
+Use these as scaffolding. Fill each slot with phrasing from the matching register above.
+
+### Satsang / email opening
+1. Name the moment (*"This Sunday,"* *"This week,"* *"Right now,"*)
+2. Invite what is already present (*"bring what is actually here,"*)
+3. Anchor in Ra's recurring verbs (*expand, notice, release, let go, trust*)
+4. End with a time/place detail or a one-line invocation
+
+### Teaching-forward social post
+1. Open with a Ra signature phrase as hook
+2. One-sentence unpack of the mechanism
+3. One-sentence reframe or permission
+4. Close with a *compressed* verbatim quote
+
+### Consultation reply
+1. Reflect what surfaced (no interpretation layered on top)
+2. Name the diagnostic move available — the loop, the hook, the story, the contraction
+3. Ask a first-principles question (*"What is really true?"* *"Where is this not true?"*)
+4. Soft close — no enrollment pressure; relationship-first
+
+### Retreat / event invitation
+1. Name the transmission format (adventure / integration)
+2. Name the time and place of power
+3. One-line description of what the field does
+4. Practical logistics; NO pricing mechanics / tier logic
+5. End with *"Places of power are not for us to put power outside, but for us to remind ourselves of our power within."* (or equivalent)
+
+### Bio / About blurb
+- Short (30 words): title + lineage + offering + mission tagline
+- Medium (80 words): + origin-arc one-line + audience framing
+- Long (160 words): + distinctive teaching method + current mode (satsang + mentorship + retreats)
+
+Always verify: does every claim trace to a sourced article? If not, cut it.
+
 ## Explicit "do not" — what is NOT Ra's voice
 
 - **Toxic positivity.** Ra does not erase the difficulty of the Dark Night. He never says *"just think positive"* or *"elevate your vibration"* in the casual self-help register.

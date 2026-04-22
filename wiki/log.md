@@ -39,3 +39,17 @@ Append-only record of edits to the public wiki. Each entry: one line. Never edit
 
 ### Index
 - Regenerated `wiki/index.md` to reflect the new shape (6 identity / 1 seekers / 33 teachings / 5 frameworks / 9 transmissions / 1 voice / 1 community).
+
+## [2026-04-21] llm-optimization | Make the public wiki more suitable as LLM context for content generation | Type: meta + navigation + voice-depth
+
+### Created
+- `wiki/START-HERE.md` — single-file brand-context brief (~3,600 words): identity, seekers, top ~20 teachings with verbatim quotes, frameworks, voice registers, offerings, do-not list, worked example, pointers. Designed as the canonical LLM-grounding entry point; readable in ~15 min.
+
+### Updated
+- `README.md` — rewrote around a one-paragraph brand summary, an explicit *"If you are an LLM drafting content — read in this order"* section, and a task-oriented category table.
+- `wiki/index.md` — added a brand snapshot + **task-oriented routing table** at the top (*"if drafting X, open Y"* mapping 12 draft types to the articles to open). Existing catalog retained below.
+- `wiki/voice/voice-guide.md` — added 5 worked examples across registers (social caption, satsang invitation, consultation reply, daily-practice micro-teaching, keynote reconciliation) and 5 micro-templates (satsang opening, teaching-forward post, consultation reply, retreat invitation, bio blurb). Each worked example labeled with register + length + notes.
+- `CLAUDE.md` — updated the "Draft content using the wiki" workflow to point at `START-HERE.md` first and `index.md`'s routing table second.
+
+### Rationale
+Primary audience per standing directive is AI-grounding. A dense single-file brief + task routing makes that materially faster for an LLM to use. The worked examples translate "voice" from abstract register labels into concrete outputs the LLM can pattern-match against. No new teachings or offerings were added — this pass is purely LLM-usability and navigation.

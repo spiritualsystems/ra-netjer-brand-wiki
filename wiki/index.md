@@ -1,10 +1,41 @@
 # Wiki Index
 
-Catalog of every article in the public wiki. Grouped by category. One line per article.
+## New here? Start with [`START-HERE.md`](START-HERE.md)
 
-See [`../CLAUDE.md`](../CLAUDE.md) for conventions. This file is maintained as part of every operation that creates, renames, or deletes an article — never as a separate housekeeping pass.
+That file is the single-page brand-context brief — **read it in full before drafting content**. It takes ~15 minutes and covers identity, seekers, teachings, voice, offerings, and the do-not list in one place. This index is for drilling deeper.
+
+## Brand snapshot
+
+**Ra Netjer** is an Enlightened Transmission Teacher who mentors Awakening Souls through Dark Night, Disruptive Awakening, and plateau periods. Mission: *"Uplift the consciousness of the world by making enlightenment commonplace."* Tagline: *"Remember who you are, awaken the guru within."* Three lineage streams: Advaita Vedanta (first guru), Buddhism (Ahjan, second teacher), heart-bhakti / ascension (current guru). Voice: grounded, reflective, lineage-acknowledging — never marketing-hyped. Audience: not beginners — practitioners who've *"already gone through the basics"* and need help navigating a deeper opening.
+
+## Task-oriented routing — "if drafting X, open Y"
+
+| You're drafting… | Read first | Then also open |
+|---|---|---|
+| **Social caption / short post** | [`voice/voice-guide.md`](voice/voice-guide.md), [`START-HERE.md`](START-HERE.md) | 1–2 relevant teachings; `teachings/breathe-notice-let-go.md` is often the baseline |
+| **Satsang invitation / event promo** | [`transmissions/transmission-satsang.md`](transmissions/transmission-satsang.md), [`community/i-am-community.md`](community/i-am-community.md) | A recent teaching to frame the arc; voice guide "satsang" register |
+| **Consultation follow-up / intake reply** | [`transmissions/1-on-1-spiritual-consultation.md`](transmissions/1-on-1-spiritual-consultation.md), [`seekers/who-ra-serves.md`](seekers/who-ra-serves.md) | Voice guide "mentorship/intake" register; relevant teaching for the specific opening |
+| **Keynote / podcast appearance framing** | [`transmissions/speaking-engagements.md`](transmissions/speaking-engagements.md), [`identity/mission-and-values.md`](identity/mission-and-values.md) | `teachings/find-your-inner-guru.md` for a 2025-12 reference; voice guide "keynote" register |
+| **Show notes / YouTube description** | [`identity/youtube-channel.md`](identity/youtube-channel.md), [`START-HERE.md`](START-HERE.md) | The teaching article matching the video's topic |
+| **Bio / About-page copy** | [`identity/teacher-profile.md`](identity/teacher-profile.md), [`identity/origin-story.md`](identity/origin-story.md), [`identity/lineage.md`](identity/lineage.md) | `identity/sri-raghunath-guruji.md` for familial-lineage depth |
+| **Retreat / event copy** | [`transmissions/retreats.md`](transmissions/retreats.md), [`teachings/places-of-power.md`](teachings/places-of-power.md) | No pricing mechanics — see CLAUDE.md directive |
+| **Program / IAP enrollment copy** | [`transmissions/integrated-awakening-program.md`](transmissions/integrated-awakening-program.md), [`frameworks/integrated-awakening-process.md`](frameworks/integrated-awakening-process.md), [`frameworks/three-pillars-awareness-understanding-manifestation.md`](frameworks/three-pillars-awareness-understanding-manifestation.md) | Voice guide "mentorship/intake" register |
+| **Daily-practice / micro-teaching** | [`teachings/breathe-notice-let-go.md`](teachings/breathe-notice-let-go.md), [`teachings/summa-iru-simply-be.md`](teachings/summa-iru-simply-be.md) | Voice guide "daily-practice" + "simplest-move" registers |
+| **Community / I AM Community email** | [`community/i-am-community.md`](community/i-am-community.md), [`transmissions/free-i-am-community.md`](transmissions/free-i-am-community.md) | Voice guide "playful-warm" signatures |
+| **Myth-busting / positioning content** | [`teachings/seven-myths-of-spiritual-awakening.md`](teachings/seven-myths-of-spiritual-awakening.md), [`teachings/enlightenment-as-new-normal.md`](teachings/enlightenment-as-new-normal.md) | Voice guide "myth-busting" register |
+| **Dark Night / struggle-facing content** | [`teachings/dark-night-of-the-soul.md`](teachings/dark-night-of-the-soul.md), [`teachings/trust-as-spiritual-foundation.md`](teachings/trust-as-spiritual-foundation.md), [`teachings/ups-and-downs-liberating-truth.md`](teachings/ups-and-downs-liberating-truth.md) | `identity/origin-story.md` for Ra's Mangalore DNOS reference |
+
+**Whenever drafting anything** — open [`voice/voice-guide.md`](voice/voice-guide.md) last, before finalizing, and run the draft against its "do not" list.
+
+## Conventions
+
+See [`../CLAUDE.md`](../CLAUDE.md) for the standing directives (AI-grounding primary audience; name Sai Maa only when lineage context is essential; retreat pricing logic internal-only). This file is maintained as part of every operation that creates, renames, or deletes an article — never as a separate housekeeping pass.
 
 ---
+
+## Full catalog
+
+Grouped by category. One line per article.
 
 ## identity/
 - [Teacher Profile — Ra Netjer](identity/teacher-profile.md) — Who Ra is, his title, role, positioning, operating principles.

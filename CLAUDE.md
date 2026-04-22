@@ -101,11 +101,12 @@ When a contributor asks for a wiki update (e.g. "Ra mentioned a new teaching on 
 
 When drafting a post, caption, email, or other content:
 
-1. Read `wiki/index.md` to find relevant articles.
-2. Read those articles in full.
-3. Quote Ra directly where precision matters; paraphrase in the same register elsewhere.
-4. Never invent quotes. If a phrase doesn't appear in a sourced article, don't put it in Ra's mouth.
-5. Run the draft past the voice guide's "do not" list before finalizing.
+1. **Start with [`wiki/START-HERE.md`](wiki/START-HERE.md)** — the single-file brand-context brief. Read it in full before drafting.
+2. Open [`wiki/index.md`](wiki/index.md) and follow the **task-oriented routing table** at the top — it tells you which specific articles to open for your draft type.
+3. Read those articles in full.
+4. Quote Ra directly where precision matters; paraphrase in the same register elsewhere.
+5. Never invent quotes. If a phrase doesn't appear in a sourced article, don't put it in Ra's mouth.
+6. Run the draft past the voice guide's "do not" list and worked examples before finalizing.
 
 ### Remove
 
