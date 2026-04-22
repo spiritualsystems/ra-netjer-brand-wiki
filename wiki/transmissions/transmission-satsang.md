@@ -2,7 +2,7 @@
 title: Transmission Teaching & Satsang
 category: transmissions
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## What it is
@@ -19,7 +19,7 @@ On the website, this offering is implicit inside the Free I AM Community benefit
 | **Pre-teaching conversation** | ~10 min | Informal; Ra shares recent events (e.g., his travel, his continuing studentship with his own guru) |
 | **Core teaching** | ~25–45 min | Ra teaches a central concept with embedded transmission throughout |
 | **Attendee sharing / integration** | ~60–90 min | Attendees raise hands to share experiences, breakthroughs, questions. Ra responds to each with teaching + direct energetic address |
-| **Closing** | ~5–10 min | Ra closes with a poetic invocation; collective mantra *"Om Jai Jai Sai Ma"* |
+| **Closing** | ~5–10 min | Ra closes with a poetic invocation; collective mantra honoring the lineage |
 
 ## Teaching character — different from mentorship
 
@@ -35,14 +35,14 @@ Ra's satsang voice differs from his mentorship voice:
 - **Opening invocation** (by moderator): *"Let's all enter into a receptive state of being... Surrender all your littleness, all your filters and labels... Find that place of peace in your heart. Open up your heart. Open up your mind."*
 - **Greeting Ra's arrival:** *"Welcome, Ra, whatever you're getting. Namaste."*
 - **Multiple-Namaste satsang opening** — Ra himself opens extended satsangs with a ritualized *"Namaste. Namaste. Namaste. Namaste. Namaste. Ah. Hmm. Hmm. Hmm. Wow. Hmm. Hmm. Good to see you all. Today is such a powerful day."*
-- **Collective mantra:** *"Om Jai Jai Sai Ma"* — invoking the lineage teacher, used multiple times throughout the evening
+- **Collective mantra:** a lineage-invoking mantra used multiple times throughout the evening
 - **Call-and-response energy:** Ra says *"Very good," "Wonderful," "Wow"* frequently, validating speakers
 
 ## Role in the offering stack
 
 - **Entry point.** For a new seeker, satsang is often the first direct exposure to Ra. Attended freely via the I AM Community.
 - **Continuing rhythm for program students.** Even after a seeker enters the paid Integrated Awakening Program, satsangs continue — the program is additive, not a replacement.
-- **Cross-lineage gathering.** Satsangs are where Ra's students and Sai Maa community members mix; the lineage connection is lived rather than theoretical.
+- **Cross-lineage gathering.** Satsangs are where Ra's students and students from adjacent lineage communities mix; the lineage connection is lived rather than theoretical.
 
 ## Why this offering is structurally important
 

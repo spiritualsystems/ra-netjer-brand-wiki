@@ -2,7 +2,7 @@
 title: Retreats — Adventure and Integration Formats
 category: transmissions
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## What retreats are in Ra's practice
@@ -39,23 +39,18 @@ Smaller format. Features: sauna, lazy river, hot tub — integration and rest ra
 - **Location:** San Diego area
 - **Timing:** Spring Equinox + Navaratri (9-day divine-feminine festival)
 - **Places of power visited:** Shirdi Sai Baba temple; Torrey Pines Reserve canyon night-sit; the desert on the Equinox night; Temple of Clarity
-- **Pricing:** suggested donation, any amount
 
-### Hawaii Adventure Retreat (August 14–23, 2026) — upcoming
+### Hawaii Adventure Retreat (August 14–23, 2026)
 
 - **Trigger:** Ra's birthday (August) = time of power
 - **Location:** East side of the Big Island of Hawaii
 - **Places of power planned:** Mauna Kea (high altitude); Place of Refuge (Puʻuhonua o Hōnaunau); the volcano
 - **Online component:** yes, selfie-stick format
-- **Accommodation:** limited seats; enrollment during Q2 2026
+- **Accommodation:** limited seats
 
-## Pricing philosophy
+## Enrollment
 
-Retreat pricing is typically **donation-based**. Ra's framing:
-
-> *"Any, any amount of donation, it's important that people say yes, and there's a container."*
-
-The "container" point matters — the donation-based model is not free or casual; it creates commitment through intentional financial yes, even when the amount is small.
+Retreat enrollment typically flows through the Awaken With Ra website and consultations with Ra. Specific dates and spots are announced via the I AM Community and website.
 
 ## What retreats do that other formats don't
 

@@ -2,7 +2,7 @@
 title: The I AM Community — Culture and Rhythms
 category: community
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## What it is
@@ -36,7 +36,7 @@ The posture: receptivity *first*, teaching *second*. Attendees are not shown up 
 
 ### The mantra — *Om Jai Jai Sai Ma*
 
-Repeated multiple times per satsang. Invokes Sai Maa, Ra's current teacher. Using this mantra in the community is a living acknowledgment that Ra's work is *inside a lineage* — not a standalone brand. Attendees routinely greet each other and Ra with *"Om Jai Jai Sai Ma"* + *"Namaste."*
+Repeated multiple times per satsang; invokes Ra's current guru, Sai Maa. Using this mantra in the community is a living acknowledgment that Ra's work is *inside a lineage* — not a standalone brand. Attendees routinely greet each other and Ra with *"Om Jai Jai Sai Ma"* + *"Namaste."*
 
 ### Hand-raising norm
 
@@ -76,7 +76,7 @@ The structural argument for mixing: earlier-stage seekers witness what's coming;
 
 ## Cross-lineage openness
 
-A distinctive feature: Ra's community routinely includes students who also study with Sai Maa, with other teachers, or who belong to other lineage communities. Ra explicitly welcomes this. The community is not possessive — it does not require exclusive affiliation.
+A distinctive feature: Ra's community routinely includes students who also study with his own current guru, with other teachers, or who belong to other lineage communities. Ra explicitly welcomes this. The community is not possessive — it does not require exclusive affiliation.
 
 Everyone is there because the field is the point, not which teacher's name is on the container.
 
@@ -87,4 +87,4 @@ From [../seekers/who-ra-serves.md](../seekers/who-ra-serves.md):
 - **Isolation on the path** — directly answered by weekly live presence + direct Ra access + mutual-witness culture
 - **Echo-chamber online groups** — distinguished structurally: this is a live, teacher-present, ritual-rich container, not a static forum
 - **Spiritual bypassing** — Meditative Eating, Q&A, and the mentorship hand-raising format keep the seeker in contact with ordinary life, not only peak states
-- **Loss of meaning** — the lineage acknowledgment (*Om Jai Jai Sai Ma*) and the framing of enlightenment as doorway-to-infinity keep the path oriented even when the individual feels lost
+- **Loss of meaning** — the lineage acknowledgment (the collective mantra) and the framing of enlightenment as doorway-to-infinity keep the path oriented even when the individual feels lost

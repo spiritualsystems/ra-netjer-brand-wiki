@@ -2,7 +2,7 @@
 title: Lineage — The Teachers Behind Ra
 category: identity
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## Why this article exists
@@ -75,8 +75,6 @@ From satsang:
 **Sai Maa's lineage** traces to **Shirdi Sai Baba** (her root lineage guru, through Satya Sai Baba's parampara). **Mahavatar Babaji** is also named in her lineage, particularly as the teacher who gave her ascension work.
 
 Ra is actively, currently studying with Sai Maa. He has attended her **Journey of Profound Healing** program and continues to learn from her. She is an active teacher for him — he is simultaneously a teacher to his mentees and a student of hers.
-
-The community mantra **"Om Jai Jai Sai Ma"** is used in Ra's community as a collective closing invocation that honors his current guru.
 
 ## How Ra positions himself within this chain
 

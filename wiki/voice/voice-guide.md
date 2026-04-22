@@ -2,7 +2,7 @@
 title: Voice Guide — Ra's Own Language
 category: voice
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## Purpose
@@ -21,6 +21,9 @@ Ra has multiple public voice registers. Match the register to the context:
 - **Consultation / intake voice** — diagnostic, present-tense, specific to the person
 - **Puja / invocation voice** — Sanskrit-fluent, translates inline, blends lineages openly
 - **Book / long-form voice** — narrative, willing to circle back, self-correcting, quoted dialogue
+- **Keynote voice** — (public keynotes such as the 2025-12 Spiritual (R)Evolution keynote) — more public-audience, reconcilable-across-lineages, slower, explicit
+- **Daily-practice voice** — compressed, three-word, mnemonic-friendly; public-facing for broad audiences (BNL / Breathe, Notice, Let Go)
+- **Myth-busting voice** — enumerated refutations of common awakening misconceptions (*"Seven Myths of Spiritual Awakening,"* etc.)
 
 ## Core concepts in Ra's own language
 
@@ -221,6 +224,72 @@ Ra has multiple public voice registers. Match the register to the context:
 - *"Let everything else go."*
 - *"Let's meditate together."*
 
+## Permission / "How deep is your yes" register
+
+- *"How deep is your yes?"* — the diagnostic question
+- *"It's not about practice. It's about permission."*
+- *"A reluctant yes, a conditional yes, a resonant yes — these are three different doorways."*
+- *"The doorway is already open. You are the one deciding whether to walk through."*
+
+## Trust register
+
+- *"If you have trust, everything else will come."*
+- *"Trust is the guiding lamp."*
+- *"You don't need to trust the outcome. You need to trust the field."*
+
+## Daily-practice register (BNL / Breathe, Notice, Let Go)
+
+- *"BNL. Breathe. Notice. Let go."*
+- *"I don't even know if you can really call it a technique. Once you go deep enough into understanding what this is, you will discover that this is actually your true nature in itself."*
+- *"Breathing is such an important thing, a profound thing, because it is what connects this body to spirit."*
+- *"I say notice very particularly because you are noticing what is here... It's not even an action. To notice is to bring awareness. And you are awareness."*
+- *"This is not an action. This is an un-action... or a de-action, which is simply stopping that holding on."*
+- *"Make it a trigger. Make it a trigger which starts with breathing."*
+- *"Big Nose Llama."* — the mnemonic
+
+## Public keynote / reconciliation register
+
+- *"The guru is within. External gurus are mirrors — they show you what you already are."*
+- *"You don't have to choose between traditions. You have to choose one container to go deep enough."*
+- *"Enlightenment is not reaching somewhere. It is remembering you already began there."*
+- *"The problem is not that you haven't arrived. The problem is that you've forgotten."*
+
+## Daily-baseline / new-normal register
+
+- *"Enlightenment can be the new normal. Not rare-peak, not saint-only. Daily baseline."*
+- *"Make enlightenment commonplace."*
+- *"Remember who you are, awaken the guru within."* — brand tagline
+
+## Simplest-move register (Summa Iru / Only Enlightenment Is Real)
+
+- *"Summa iru. Simply be."*
+- *"Just be."*
+- *"Only enlightenment is real. Everything else is play of consciousness."*
+- *"The simple realization."*
+
+## Myth-busting register
+
+- *"Enlightenment is not instant."*
+- *"Enlightenment is not reserved for rare saints."*
+- *"Enlightenment is not bliss-only."*
+- *"You do not have to abandon success to become enlightened."*
+- *"Psychic abilities are not a reliable marker of enlightenment."*
+- *"Intellectual understanding is not enlightenment."*
+- *"Enlightenment is not a solo path."*
+
+## Aspect-work register
+
+- *"Every aspect of you wants to come into the light. None of them want to be exiled."*
+- *"The part of you that's afraid is still you. Greet it."*
+- *"Thank that aspect. It has been protecting you."*
+- *"Merge it back into the light."*
+
+## Mantra / transmission-field register
+
+- *"A mantra is not a wish. A mantra is a remembering."*
+- *"When you chant, the field chants with you."*
+- *"Om Namah Shivaya — I bow to Shiva, I bow to the auspicious one, I bow to the self."*
+
 ## Playful-warm signatures
 
 - *"Right meow"* — Ra's playful cat-swap for *"right now."* Recurs intentionally.
@@ -245,3 +314,5 @@ Ra has multiple public voice registers. Match the register to the context:
 - **Aggressive contrarian hooks.** Phrases designed to provoke ("Stop doing X, it's a scam" energy) are not Ra's register. Ra's challenge is inward, not at the field.
 - **Secular-translation vocabulary.** Ra does not swap *Enlightenment* for *growth*, or *Divinity* for *higher self* when speaking publicly. Use the direct vocabulary.
 - **Invented quotes.** If a phrase isn't documented in a source, don't put it in Ra's mouth.
+- **Defaulting to lineage name-drops.** Do not reach for Ra's current guru's name to add gravitas. Name her only when the teaching explicitly is hers, when the lineage point requires citation, or when the source is a specific public keynote in her presence. Otherwise let Ra's voice stand on its own. (See `../CLAUDE.md` standing directives, 2026-04-21.)
+- **Publishing pricing mechanics.** Do not articulate the logic behind tier pricing, sliding scales, or thresholds-as-filters. Name the transmissions and their rough shape; leave pricing strategy unspoken.

@@ -2,7 +2,7 @@
 title: Places of Power and Times of Power
 category: teachings
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## The teaching in one line
@@ -28,7 +28,7 @@ Putting power outside creates dependency on pilgrimage. Keeping power within all
 - **Mangalore, South India** — site of Ra's Dark Night walking meditation
 - **Mount Kurama, Kyoto, Japan** — where Ahjan was healed from cancer; Kifune Shrine sits on this mountain, near where Ra spent 2.5 months
 - **Mount Shasta, California** — where Ra received his Vajrayana Buddhist ordination in heavy snow, practicing tummo in a t-shirt and jeans
-- **Shirdi Sai Baba temples** — root-lineage-guru sites for Ra's current guru Sai Maa
+- **Shirdi Sai Baba temples** — root-lineage-guru sites in Ra's current guru's lineage
 - **Torrey Pines Reserve, San Diego** — the enlightenment site of Ahjan's own root guru
 - **Place of Refuge (Puʻuhonua o Hōnaunau), Hawaii Big Island** — a gate-marking site in Ra's own path
 - **Mauna Kea, Hawaii Big Island** — high-altitude volcanic site used in retreat practice

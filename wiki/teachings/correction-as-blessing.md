@@ -2,7 +2,7 @@
 title: Correction as Blessing
 category: teachings
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## The teaching
@@ -32,7 +32,7 @@ The Divine Feminine's wrathful aspect is sunlight-through-a-magnifying-glass: th
 
 ## Lineage-inherited pattern
 
-Ra's receptivity to correction is lineage-rooted. He has received rare, wrathful corrections from his second guru (Ahjan), and continues to receive corrections from his current guru (Sai Maa). He frames this continuity as the pattern he models for his own students: receive it, don't defend it, celebrate it.
+Ra's receptivity to correction is lineage-rooted. He has received rare, wrathful corrections from his second guru (Ahjan), and continues to receive corrections from his current guru. He frames this continuity as the pattern he models for his own students: receive it, don't defend it, celebrate it.
 
 When Ra himself corrects a student, the form is typically gentle — but the stance expected is the same. See [the-bridge-and-the-etiquette.md](the-bridge-and-the-etiquette.md).
 

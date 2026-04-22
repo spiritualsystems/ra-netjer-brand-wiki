@@ -2,7 +2,7 @@
 title: Speaking & Guest Appearances
 category: transmissions
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## What it is
@@ -21,7 +21,7 @@ These are Ra's two most developed speaking frames. Both translate his mentorship
 Ra is positioned as an **Enlightened Transmission Teacher** whose work is grounded in:
 
 - Direct experience of Dark Night and realization
-- A living lineage (rooted in Advaita Vedanta, Buddhism, and Sanatana Dharma / Hindu traditions; current guru Sai Maa)
+- A living lineage (rooted in Advaita Vedanta, Buddhism, and Sanatana Dharma / Hindu traditions)
 - A proprietary, structured methodology (the Integrated Awakening Process)
 - Ordained monastic standing (Vajrayana Buddhist ordination)
 

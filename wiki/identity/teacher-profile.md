@@ -2,7 +2,7 @@
 title: Teacher Profile — Ra Netjer
 category: identity
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## Who
@@ -11,15 +11,15 @@ last_updated: 2026-04-20
 
 ## Self-described title
 
-**Enlightened Transmission Teacher.**
+**Enlightened Transmission Teacher.** (Articulated publicly in the 2023 rebrand and reaffirmed at the December 2025 keynote.)
 
 ## Mission
 
+> *"Uplift the consciousness of the world by making enlightenment commonplace."*
+
+Also articulated as:
+
 > *"Uplift the consciousness of the world by helping the millions of bright beings who are awakening to their Divinity."*
-
-From the website:
-
-> *"My mission is to uplift the consciousness of the world by helping the millions of bright beings who are awakening to their Divinity."*
 
 ## Tagline
 

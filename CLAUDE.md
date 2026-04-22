@@ -26,6 +26,12 @@ This repository is the **public brand wiki** for the Ra Netjer mentorship and sp
 - **Contributors do not hand-edit articles** unless they are certain about the material and the voice. The default move is: ask, don't write.
 - **Schema changes** (this file) co-evolve with the maintainer; flag any proposed schema change explicitly.
 
+## Standing directives (from the source wiki, 2026-04-21)
+
+- **Primary audience: AI-grounding / context.** This wiki exists so AI tools (and the humans working alongside them) can draft content in Ra's voice without inventing anything. Public-facing readability is secondary to AI-usability — articles should be dense, specific, well-sourced, with the verbatim phrasing preserved.
+- **Speak about Sai Maa only when relevant — intentionally, consciously, not unnecessarily.** Do not default to naming her in articles that don't require lineage context. When she is named, it should carry a reason: a teaching she authored that Ra is transmitting, a lineage point that needs citation, a specific public keynote. Otherwise, articles stand on Ra's own voice.
+- **Retreat pricing logic is internal-only.** Do not publish the mechanics behind tier-pricing (barrier-as-alignment-filter, sliding-scale rationale, tier thresholds as filtering tools). Name the transmissions and their rough shape; leave the pricing strategy out.
+
 ## Directory structure
 
 ```

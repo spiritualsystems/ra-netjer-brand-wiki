@@ -2,7 +2,7 @@
 title: Free Guest Pass Event
 category: transmissions
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## What it is
@@ -23,5 +23,5 @@ Two access paths:
 ## What a seeker gets from a Guest Pass
 
 - Direct in-session experience of Ra's teaching and transmission
-- A sense of the community culture (*"Om Jai Jai Sai Ma,"* mutual-witness norms, hand-raising format — see [../community/i-am-community.md](../community/i-am-community.md))
+- A sense of the community culture (lineage mantra, mutual-witness norms, hand-raising format — see [../community/i-am-community.md](../community/i-am-community.md))
 - Material to decide whether to join the Free I AM Community and / or apply for a consultation

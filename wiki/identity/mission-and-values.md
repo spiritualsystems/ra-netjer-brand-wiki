@@ -2,16 +2,30 @@
 title: Mission & Values
 category: identity
 status: active
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## Mission
 
 > *"Uplift the consciousness of the world by making enlightenment commonplace."*
 
-From the website:
+Also articulated:
 
 > *"My mission is to uplift the consciousness of the world by helping the millions of bright beings who are awakening to their Divinity."*
+
+Both formulations have been used publicly — the first as the most compressed keynote form (December 2025); the second is the website's canonical long form.
+
+## Self-described title
+
+**Enlightened Transmission Teacher.**
+
+## Tagline
+
+> *"Remember who you are, awaken the guru within."*
+
+## Audience positioning
+
+Ra positions himself specifically as a mentor to **Awakening Souls** — seekers already in some form of spiritual awakening, not beginners. The aspiration is that enlightenment becomes *commonplace* — a daily baseline rather than a rare peak event. See [enlightenment-as-new-normal.md](../teachings/enlightenment-as-new-normal.md).
 
 ## Scope
 
@@ -20,10 +34,6 @@ Ra has named in teaching:
 > *"In order for that to happen, millions of people have to be reached."*
 
 The mentorship practice, the free community, the retreats, the speaking work, and the written / recorded material all serve this scope — not as marketing channels but as means of making enlightenment genuinely available.
-
-## Tagline
-
-> *"Remember who you are, awaken the guru within."*
 
 ## Core promise to seekers
 
